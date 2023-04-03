@@ -1,2 +1,2 @@
 # mcchances
-garrlic
+garlic
