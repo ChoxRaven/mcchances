@@ -1,2 +1,1 @@
-test*%*
-random code goes here*%*
+test*%*random code goes here
